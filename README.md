@@ -3,3 +3,7 @@
 - 🌱 I’m web and java develper
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - 9518179383
+  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
+  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
