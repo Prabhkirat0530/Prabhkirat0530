@@ -23,4 +23,4 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username={Prabhkirat0530}">
+<img src="https://github-readme-stats.vercel.app/api?Prabhkirat0530={Prabhkirat0530}">
