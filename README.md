@@ -31,4 +31,4 @@
 <br>
 <br>
 
-<a href="#" align="center"><img src="https://github-readme-stats.vercel.app/api?username=Prabhkirat0530&show_icons=true&count_private=true&theme=dark" width="350"></a>
+<a href="#" style="align='center'"><img src="https://github-readme-stats.vercel.app/api?username=Prabhkirat0530&show_icons=true&count_private=true&theme=dark" width="350"></a>
