@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m web and java developer
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me 
+- 📫 Find me here
   - 📱 9518179383
   - 🏢 [LinkedIn](https://www.linkedin.com/in/prabhkirat-singh-12a5691b7/)
   - 🖥 https://prabhkirat0530.github.io/Prabhkirat/
