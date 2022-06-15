@@ -7,7 +7,7 @@
 - 📫 Find me here
   - 📱 9518179383
   - 🏢 [LinkedIn](https://www.linkedin.com/in/prabhkirat-singh-12a5691b7/)
-  - 🖥 [https://prabhkirat0530.github.io/Portfolio/]
+  - 🖥 https://prabhkirat0530.github.io/Portfolio/
 
 <br>
 <br>
