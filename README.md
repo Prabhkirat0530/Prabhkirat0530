@@ -1,7 +1,6 @@
 ## Hello World !!
 
-<!-- ![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png) -->
-![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202916721-ff642d9a-7f78-4534-9027-1352f276f81c.png)
+![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png)
 
 
 <br>
