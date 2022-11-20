@@ -1,16 +1,8 @@
 ## Hello World !!
 
-![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png)
+<!-- ![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png) -->
+![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202916721-ff642d9a-7f78-4534-9027-1352f276f81c.png)
 
-
-- 👋 Hi, I’m Prabhkirat (@Prabhkirat0530)
-- 👀 I’m interested in learning new things
-- 🌱 I’m web and java developer
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 Find me here
-  - 📱 9518179383
-  - 🏢 [LinkedIn](https://www.linkedin.com/in/prabhkirat-singh-12a5691b7/)
-  - 🖥 https://prabhkirat0530.github.io/Portfolio/
 
 <br>
 <br>
