@@ -1,4 +1,5 @@
-![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png)
+<!-- ![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png) -->
+![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202975011-258fde0c-f09e-4671-b335-5f5213deff50.png)
 
 
 <br>
