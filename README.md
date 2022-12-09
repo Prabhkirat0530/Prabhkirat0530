@@ -1,5 +1,6 @@
-![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png)
-<!-- ![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202975011-258fde0c-f09e-4671-b335-5f5213deff50.png) -->
+![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/206633315-19656ba3-cdc9-4cdd-98a7-a12505e48b87.png)
+![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/206633329-cce88165-60fe-4625-86ca-6228de9eb8b4.png)
+
 
 <h1 align="center">Hi 👋, I'm Prabh</h1>
 <h3 align="center">A CSE Student</h3>
