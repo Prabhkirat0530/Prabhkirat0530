@@ -2,6 +2,8 @@
 ![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202975011-258fde0c-f09e-4671-b335-5f5213deff50.png)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prabhkirat0530&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhkirat0530" /> </p>
+
 <br>
 <br>
 
