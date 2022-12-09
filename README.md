@@ -1,6 +1,8 @@
-<!-- ![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png) -->
-![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202975011-258fde0c-f09e-4671-b335-5f5213deff50.png)
+![Prabhkirat Singh-2](https://user-images.githubusercontent.com/78585333/202916458-882d848b-cd41-405d-b3e3-d299bb4d9c2f.png)
+<!-- ![Prabhkirat Singh](https://user-images.githubusercontent.com/78585333/202975011-258fde0c-f09e-4671-b335-5f5213deff50.png) -->
 
+<h1 align="center">Hi 👋, I'm Prabh</h1>
+<h3 align="center">A CSE Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prabhkirat0530&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhkirat0530" /> </p>
 
